@@ -1,3 +1,12 @@
 # Files that might be created throughout the replication process but do not
 # need go into the repository
 
+# The .gal file is built on the fly and written out to be used in R
+adam_buzz_buurts_queenPS.gal
+
+# Output of lag models for the last part is only written out
+lag_models_summaries.txt
+
+# The figure created in R is also written out as a png
+lag_models_div_betas.png
+
