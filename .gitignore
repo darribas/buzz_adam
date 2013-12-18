@@ -1,6 +1,9 @@
 # Files that might be created throughout the replication process but do not
 # need go into the repository
 
+# Open Vim files
+*.swp
+
 # The .gal file is built on the fly and written out to be used in R
 adam_buzz_buurts_queenPS.gal
 
