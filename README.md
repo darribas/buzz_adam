@@ -17,7 +17,7 @@ This the site that presents the data, code and steps required to reproduce the f
 
 This document is hosted, together with the data required, as an open repository that is available in the following url:
 
-- http://github.com
+- https://github.com/darribas/buzz_adam
 
 The data are provided "as is" and have been aggregated and aligned from the following sources:
 
@@ -38,3 +38,15 @@ In order to run this notebook in your own machine, you will need the following l
 * The methods `dbf2df` and `df2dbf`, part of the GeoDa sandbox, hosted [here](https://github.com/GeoDaSandbox/sandbox/blob/master/pyGDsandbox/dataIO.py). You can read about how to install them [here](http://geodasandbox.github.io/2012/03/28/how-to-get-up-and-running-with-the-geoda-center-sandbox/).
 
 Besides this Python installation, the spatial models are estimated using [R](http://r-project.org) and its `spdep` package.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
+alt="Creative Commons License" style="border-width:0"
+src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span
+xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text"
+property="dct:title" rel="dct:type">"Replication of results for The
+socio-cultural sources of urban buzz"</span> by <a
+xmlns:cc="http://creativecommons.org/ns#" href="http://darribas.org"
+property="cc:attributionName" rel="cc:attributionURL">Daniel Arribas-Bel</a>
+is licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+Attribution 4.0 International License</a>.
